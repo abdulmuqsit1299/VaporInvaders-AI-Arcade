@@ -1,0 +1,6 @@
+{
+  "name": "VaporInvaders - 80s Synthwave Space Invaders",
+  "description": "Retro 80s vaporwave Space Invaders arcade game with an integrated YouTube Pakistani & Indian music player, 80s synth-wave cassette deck, and high-score counter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
